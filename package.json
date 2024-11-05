@@ -1,0 +1,24 @@
+{
+  "name": "svelte-adapter-powerschool",
+  "type": "module",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TESD-Tech/svelte-adapter-powerschool.git"
+  },
+  "author": "Benjamin Kemp, TESD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TESD-Tech/svelte-adapter-powerschool/issues"
+  },
+  "homepage": "https://github.com/TESD-Tech/svelte-adapter-powerschool#readme",
+  "dependencies": {
+    "@sveltejs/kit": "^2.7.5",
+    "adm-zip": "^0.5.16"
+  }
+}
