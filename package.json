@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/TESD-Tech/svelte-adapter-powerschool#readme",
   "dependencies": {
-    "@sveltejs/kit": "^2.13.0",
+    "@sveltejs/kit": "^2.8.3",
     "@tesd-tech/ps-package": "^24.11.9",
     "adm-zip": "^0.5.16"
   }
